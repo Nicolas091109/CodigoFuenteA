@@ -1,0 +1,6 @@
+projectKey=atlas-backend
+serverUrl=http://localhost:9001
+serverVersion=26.9.0.129388
+dashboardUrl=http://localhost:9001/dashboard?id=atlas-backend
+ceTaskId=e0d2bc03-d1f6-4782-a6c5-b57f355aa55a
+ceTaskUrl=http://localhost:9001/api/ce/task?id=e0d2bc03-d1f6-4782-a6c5-b57f355aa55a
